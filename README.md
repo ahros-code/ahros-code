@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Pixer](https://ahros-pixer.netlify.app)
+- 🔭 I’m currently working on [portfolio](https://raxmanovcoding.netlify.app)
 
 - 🌱 I’m currently learning **Typescript**
 
