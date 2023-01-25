@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **Python, HTML, CSS, JavaSript, ReactJS, MySQL**
+- 💬 Ask me about **Python, HTML, CSS, Scss, JavaSript, ReactJS, MySQL**
 
 - 📫 How to reach me **probroalpha@gmail.com**
 
