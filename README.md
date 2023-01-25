@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahros5" target="blank"><img src="https://img.shields.io/twitter/follow/ahros5?logo=twitter&style=for-the-badge" alt="ahros5" /></a> </p>
 
-- 🔭 I’m currently working on [RCoding](https://raxmanov.netlify.app)
+- 🔭 I’m currently working on [Raxmanov.uz](https://raxmanovuz.netlify.app)
 
 - 🌱 I’m currently learning **Typescript**
 
