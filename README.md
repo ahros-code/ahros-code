@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">Aspiring Full Stack Web Developer actively gaining hands-on experience in collaborative projects. Strong foundation in various aspects of full stack development. Effective communicator of complex technical concepts. Reliable, adaptable, and eager to learn new technologies.
+<p align="left">
+Aspiring Full Stack Web Developer actively gaining hands-on experience in collaborative projects. Strong foundation in various aspects of full stack development. Effective communicator of complex technical concepts. Reliable, adaptable, and eager to learn new technologies.
 
 My Approach:
 🎯 Goal-Oriented: I approach web development projects with a clear focus on achieving defined goals and objectives. I strive to understand the project requirements thoroughly and align my efforts towards delivering high-quality solutions that meet or exceed expectations.
