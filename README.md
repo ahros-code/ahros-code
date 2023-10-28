@@ -56,6 +56,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahros-code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<hr />
+
 ###
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ahros-code.ahros-code&left_color=maroon&left_text=Profile%20views"  />
