@@ -1,28 +1,20 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Hi 👋, I am Hamidulloh</h2>
 
 ###
 
-<h2 align="left">About</h2>
+<h3 align="center">A Full Stack Web developer from Uzbekistan</h3>
 
 ###
 
-<p align="left">
-Aspiring Full Stack Web Developer actively gaining hands-on experience in collaborative projects. Strong foundation in various aspects of full stack development. Effective communicator of complex technical concepts. Reliable, adaptable, and eager to learn new technologies.
-
-My Approach:
-🎯 Goal-Oriented: I approach web development projects with a clear focus on achieving defined goals and objectives. I strive to understand the project requirements thoroughly and align my efforts towards delivering high-quality solutions that meet or exceed expectations.
-
-🤝 Collaborative: I believe in the power of teamwork and value collaboration. I actively engage with other team members, designers, and stakeholders to foster a cooperative environment where ideas are shared, feedback is welcomed, and collective solutions are created.
-
-⏰ Time Management: I understand the importance of meeting project deadlines. I prioritize tasks effectively, create realistic schedules, and manage my time efficiently to ensure timely delivery of milestones and project completion.
-
-🔄 Adaptability: I embrace challenges and am adaptable to changing project requirements and priorities. I am open to feedback and constructive criticism, constantly learning and improving my skills to stay flexible in an ever-evolving industry.
-
-🔧 Problem-Solving: I enjoy tackling complex problems and finding creative solutions. I approach challenges with a logical and analytical mindset, breaking them down into manageable components and utilizing tools and resources to overcome obstacles.</p>
+<h2 align="left">💫 About me</h2>
 
 ###
 
-<h2 align="left">Socials</h2>
+<p align="left">Aspiring Full Stack Web Developer actively gaining hands-on experience in collaborative projects. Strong foundation in various aspects of full stack development. Effective communicator of complex technical concepts. Reliable, adaptable, and eager to learn new technologies.<br><br>My Approach:<br>🎯 Goal-Oriented: I approach web development projects with a clear focus on achieving defined goals and objectives. I strive to understand the project requirements thoroughly and align my efforts towards delivering high-quality solutions that meet or exceed expectations.<br><br>🤝 Collaborative: I believe in the power of teamwork and value collaboration. I actively engage with other team members, designers, and stakeholders to foster a cooperative environment where ideas are shared, feedback is welcomed, and collective solutions are created.<br><br>⏰ Time Management: I understand the importance of meeting project deadlines. I prioritize tasks effectively, create realistic schedules, and manage my time efficiently to ensure timely delivery of milestones and project completion.<br><br>🔄 Adaptability: I embrace challenges and am adaptable to changing project requirements and priorities. I am open to feedback and constructive criticism, constantly learning and improving my skills to stay flexible in an ever-evolving industry.<br><br>🔧 Problem-Solving: I enjoy tackling complex problems and finding creative solutions. I approach challenges with a logical and analytical mindset, breaking them down into manageable components and utilizing tools and resources to overcome obstacles.</p>
+
+###
+
+<h2 align="left">🌐 Socials</h2>
 
 ###
 
@@ -33,7 +25,7 @@ My Approach:
 
 ###
 
-<h2 align="left">Tech stack</h2>
+<h2 align="left">💻 Tech stack</h2>
 
 ###
 
@@ -51,7 +43,7 @@ My Approach:
 
 ###
 
-<h2 align="left">GitHub Stats</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
 ###
 
@@ -63,5 +55,9 @@ My Approach:
 ###
 
 <img src="https://raw.githubusercontent.com/ahros-code/ahros-code/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ahros-code.ahros-code&left_color=maroon&left_text=Profile%20views"  />
 
 ###
